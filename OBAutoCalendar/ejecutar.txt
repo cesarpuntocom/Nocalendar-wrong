@@ -1,0 +1,1 @@
+./../../jdk1.8.0_151/bin/java -jar build/libs/OBAutoCalendar-1.0.jar cgrivera@tuenti.com yphmpderxthzgzwa

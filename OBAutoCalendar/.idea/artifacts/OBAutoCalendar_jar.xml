@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="OBAutoCalendar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OBAutoCalendar_jar</output-path>
+    <root id="archive" name="OBAutoCalendar.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
